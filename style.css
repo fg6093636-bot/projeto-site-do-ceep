@@ -6,10 +6,11 @@ body {
 /* HEADER */
 header {
     background: linear-gradient(to right, #0b3d91, #1456c3);
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 25px;
-}
+    
+}   
 
 header h1 {
     margin: 0;
